@@ -15,6 +15,7 @@ INSTALL_REQUIRES = [
     "matplotlib",
     "jupyter",
     "ipywidgets",
+    "chemview",
 ]
 
 setup(

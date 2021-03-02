@@ -3,6 +3,9 @@ Homebrew Molecular Geometry Optimisation
 
 ## Installation
 
+Install Python 3
+https://www.python.org/downloads/
+
 Make a python virtual environment to contain all the project's packages
 
 ```
